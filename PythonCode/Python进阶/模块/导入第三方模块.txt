@@ -1,0 +1,7 @@
+Python提供的模块管理工具
+easy_install
+pip (官方推荐，已内置到Python2.7.9)
+实际上在2.7.11 上面两款工具全部由内置的
+
+# 使用pip安装web.py
+pip install web.py
