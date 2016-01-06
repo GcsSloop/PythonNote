@@ -16,6 +16,7 @@ EditPlus | [EditPlus使用技巧](https://github.com/GcsSloop/PythonNote/blob/ma
 
 ### Python可以做的有趣的东西
 链接 | 说明
+--- | ---
 [Python也可以](http://blog.csdn.net/column/details/python-can.html) | 一些看起来非常高大上的东西如何用Python实现
 
 ### 文件夹说明：
