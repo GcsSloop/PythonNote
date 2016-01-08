@@ -19,10 +19,11 @@ EditPlus | [EditPlus使用技巧](https://github.com/GcsSloop/PythonNote/blob/ma
 --- | ---
 [Python也可以](http://blog.csdn.net/column/details/python-can.html) | 一些看起来非常高大上的东西如何用Python实现
 
-### 文件夹说明：
- 文件夹名 | 说明
+### 说明：
+ 名称 | 说明
  --- | ---
  Art | 图片
  PDT | Python开发工具
  PythonCode | 学习代码库
  PythonTool | 可复用的代码
+ Issues | 记录学习过程遇到的错误和好的点子
