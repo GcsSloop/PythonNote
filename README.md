@@ -8,6 +8,7 @@
 
 相关资料 | 链接 | 备注
 --- | --- | ---
+Python导航 | [www.python5.com](http://www.python5.com/) | 
 Python官网 | [www.python.org](https://www.python.org/) | 
 Python课程 | [慕课网](http://www.imooc.com/course/list?c=python) | 视频 + 代码
 Python教程 | [廖雪峰](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) | 博客
